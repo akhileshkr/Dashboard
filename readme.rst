@@ -1,8 +1,9 @@
 ***********
 CodeIgniter
 ***********
-To know about the framework that used to create this project please 
-`click here  <https://github.com/akhileshkr/Dashboard/blob/master/readme1.rst>`_
+ In this project is used to create a framework of PHP called CodeIgniter.
+To know more about the framework  
+`click here  <https://github.com/akhileshkr/Dashboard/blob/master/readme1.rst>`_.
  
 ******************************
 Installation for windows users
@@ -12,3 +13,4 @@ Installation for windows users
 2) Download the git repo.
 3) For xampp users:- put the Downloaded file into the path C:/xampp/htdoc.
 4) For wamp users:- put the Downloaded file into `C:/wamp/www`.
+5) After Step 4 or 5, open phpmyadmin (`http://localhost/phpmyadmin`_).
