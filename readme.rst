@@ -16,7 +16,7 @@ Server Installation for windows users
 ********************
 Project Installation
 ********************
-1) Download the git repo and put the file into project *installation folder*.
+1) Download the git repo and put the file into project #installation folder#.
 2) Open phpmyadmin `localhost/phpmyadmin <http://localhost/phpmyadmin>`_.
 3) create a database called "bot".
 4) There is a file called 'db/bot.sql' in this project import the bot.sql file into the database 'bot'.
