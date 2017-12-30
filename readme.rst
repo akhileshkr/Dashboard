@@ -31,4 +31,4 @@ In any cases you want to change the project name also change the name on the fil
 
 
 $config['base_url'] = 'http://localhost/Dashboard_admin/';
-                                        ^^^^^^^^^^^^^^^
+                                     
