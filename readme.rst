@@ -21,3 +21,12 @@ Project Installation
 3) create a database called "bot".
 4) There is a file called 'db/bot.sql' in this project import the bot.sql file into the database 'bot'.
 5) Open the project on browser to type this in browser `localhost/Dashboard <http://localhost/Dashboard_admin>`_.
+
+
+*****
+Maintenance
+*****
+In any cases you want to change the project name also change the name on the file "Dashboard_admin/application/config/config.php".
+###
+$config['base_url'] = 'http://localhost/Dashboard_admin/';
+###
