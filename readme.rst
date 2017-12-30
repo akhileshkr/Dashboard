@@ -13,4 +13,4 @@ Installation for windows users
 2) Download the git repo.
 3) For xampp users:- put the Downloaded file into the path C:/xampp/htdoc.
 4) For wamp users:- put the Downloaded file into `C:/wamp/www`.
-5) After Step 4 or 5, open phpmyadmin (`http://localhost/phpmyadmin`_).
+5) After Step 4 or 5, open phpmyadmin (`to open phpmyadmin<http://localhost/phpmyadmin>`_).
