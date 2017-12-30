@@ -1,1 +1,1 @@
-`readme.rst <https://github.com/akhileshkr/Dashboard/blob/master/readme1.rst>`_
+`README <https://github.com/akhileshkr/Dashboard/blob/master/readme1.rst>`_
