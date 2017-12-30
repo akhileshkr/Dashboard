@@ -1,8 +1,7 @@
 ***********
 CodeIgniter
 ***********
- In this project is used to create a framework of PHP called CodeIgniter.
-To know more about the framework  
+In this project is used to create a framework of PHP called CodeIgniter.To know more about the framework  
 `click here  <https://github.com/akhileshkr/Dashboard/blob/master/readme1.rst>`_.
  
 ******************************
