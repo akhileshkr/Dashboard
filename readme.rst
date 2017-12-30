@@ -26,7 +26,7 @@ Project Installation
 *****
 Maintenance
 *****
-In any cases you want to change the project name also change the name on the file "Dashboard_admin/application/config/config.php".
+In any cases you want to change the project name also change the path on the file "Dashboard_admin/application/config/config.php".
 
 
 
