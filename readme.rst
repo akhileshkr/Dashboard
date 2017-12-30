@@ -73,4 +73,4 @@ contributors to the CodeIgniter project and you, the CodeIgniter user.
 GuideLine for installation
 **************************
 
-
+readme.rst
